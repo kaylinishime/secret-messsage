@@ -1,0 +1,17 @@
+{
+  "name": "tovia-enigma",
+  "version": "1.0.0",
+  "description": "tovia's enigma challenge",
+  "main": "app.js",
+  "scripts": {
+      "start": "nodemon app.js"
+    },
+  "author": "Kayli Nishime",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+     "body-parser": "^1.17.2",
+     "mysql": "^2.13.0",
+      "randomstring": "^1.1.5"
+  }
+}
